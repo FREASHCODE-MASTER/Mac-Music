@@ -2,7 +2,7 @@
 
 # VUE3-MUSIC
 
-基于 VUE3+TS 开发的音乐播放器，界面模仿QQ音乐mac客户端。
+基于 VUE3+TS 开发的音乐播放器，界面音乐mac客户端。
 
 在线体验：[https://smallruraldog.github.io/vue3-music](https://smallruraldog.github.io/vue3-music)
 

@@ -1,19 +1,17 @@
 
 
-# VUE3-MUSIC
+# Mac-Music
 
-基于 VUE3+TS 开发的音乐播放器，界面音乐mac客户端。
+A music player developed based on VUE3+TS, with a music mac client interface.
 
-在线体验：[https://smallruraldog.github.io/vue3-music](https://smallruraldog.github.io/vue3-music)
+Online experience: [https://smallruraldog.github.io/vue3-music](https://smallruraldog.github.io/vue3-music)
 
-将浏览器大小设置成1050*670，体验效果更好！界面是自适应的，使用[tailwindcss.com](https://www.tailwindcss.com)来实现
+Set the browser size to 1050*670 for a better experience! The interface is adaptive and is implemented using [tailwindcss.com](https://www.tailwindcss.com)
 
-手机端未适配，后期会使用[Flutter](https://flutter.dev)单独开发手机客户端，使用[Electron](https://www.electronjs.org)打包桌面客户端并内置API服务
-
-在线演示为了安全考虑，不提供API接口服务，需要准备好自己的API服务地址，并且是HTTPS的，没有HTTPS的服务，可以本地运行，首次打开时会要求设置API地址
+For security reasons, the online demonstration does not provide API interface services. You need to prepare your own API service address, and it is HTTPS. Services without HTTPS can be run locally. When you open it for the first time, you will be asked to set the API address.
 
 
-## 本地安装
+## Local installation
 
 ```
 git clone https://github.com/SmallRuralDog/vue3-music.git
@@ -22,11 +20,11 @@ yarn
 yarn run dev
 ```
 
-## 网易云音乐API
+## NetEase Cloud Music API
 
-需要运行API服务才能正常体验
+The API service needs to be running for normal experience
 
-[开发文档](https://binaryify.github.io/NeteaseCloudMusicApi)
+[Development documentation](https://binaryify.github.io/NeteaseCloudMusicApi)
 
 
 ## UI
@@ -49,6 +47,3 @@ yarn run dev
 
 ![image-20220310123738142](ui/image-20220310123738142.png)
 
-## PS
-
-通过此开源项目学习VUE3的强大..加油！
